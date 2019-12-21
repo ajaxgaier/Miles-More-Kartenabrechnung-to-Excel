@@ -14,4 +14,4 @@ Usage
 2. Auf "alle Umsätze" clicken
 3. Abwarten bis das Skript alle aktuellen Umsätze gesammelt hat und in das Clipboard geschrieben hat
 4a. In Excel (in einem neuen Sheet) die Umsätze pasten (das Skript geht davon aus, dass das Komma das Dezimal-Trennzeichen ist)
-4b. Einen anderen Zeitraum wählen und auf "Umsätze zeigen" clicken -> 3.
+4b. Einen anderen Zeitraum wählen und auf "Umsätze zeigen" clicken -> 3. 
