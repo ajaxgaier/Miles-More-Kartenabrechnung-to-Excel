@@ -6,5 +6,5 @@ This script walks through the different pages of the online transation overview,
 
 Reqirements:
 1. Browser with installed *monkey extension (Greasemonkey, Tampermonkey, ...)
-2. This user-script provided here
+2. This user-script provided here loaded into the *monkey extension
 3. Miles More Kreditkarten Abrechnung Konto und Zugang
